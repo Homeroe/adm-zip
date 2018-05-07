@@ -1,3 +1,7 @@
+# Changes made in this FORK
+
+entryHeaderToBinary: Line 216, changed data.writeUInt32LE(_crc, Constants.CENCRC); from Signed to Unsigned INT.
+
 # ADM-ZIP for NodeJS with added support for electron original-fs
 
 ADM-ZIP is a pure JavaScript implementation for zip data compression for [NodeJS](http://nodejs.org/). 
